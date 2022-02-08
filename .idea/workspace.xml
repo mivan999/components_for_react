@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20ec9bd2-223c-4bfd-be57-57b139f2c8fa" name="Changes" comment="6 OnOff Accordion">
-      <change afterPath="$PROJECT_DIR$/src/Components/Accordion/UncontrolledAccordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Rating/UncontrolledRating.tsx" afterDir="false" />
+    <list default="true" id="20ec9bd2-223c-4bfd-be57-57b139f2c8fa" name="Changes" comment="7 uncontrolledAccordion unRating">
+      <change afterPath="$PROJECT_DIR$/src/Components/OnOff/UncontrolledOnOff.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Accordion/UncontrolledAccordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Accordion/UncontrolledAccordion.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/OnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/OnOff/OnOff.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Rating/UncontrolledRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Rating/UncontrolledRating.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Rating" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/OnOff" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -43,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/OnOff" />
       <recent name="$PROJECT_DIR$/src/Components/Rating" />
       <recent name="$PROJECT_DIR$/src/Components/Accordion" />
     </key>
@@ -73,7 +76,7 @@
       <workItem from="1643689584327" duration="598000" />
       <workItem from="1643690963079" duration="248000" />
       <workItem from="1643794374578" duration="1867000" />
-      <workItem from="1644304551162" duration="1820000" />
+      <workItem from="1644304551162" duration="5776000" />
     </task>
     <task id="LOCAL-00001" summary="6 lesson">
       <created>1643795292974</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643795334065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="7 uncontrolledAccordion unRating">
+      <created>1644309098010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644309098010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +121,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="6 lesson" />
     <MESSAGE value="6 OnOff Accordion" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 OnOff Accordion" />
+    <MESSAGE value="7 uncontrolledAccordion unRating" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 uncontrolledAccordion unRating" />
   </component>
 </project>
