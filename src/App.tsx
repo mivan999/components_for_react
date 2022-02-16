@@ -20,7 +20,7 @@ function App() {
             <Rating value={ratingValue} onClick={setRatingValue}/>
 
             <Accordion title={'Menu1'} collapsed={collapsed}
-                       onClick={setCollapsed}/>
+                       onClick={setCollapsed} items={['Dimych','Igor','Sveta','Sasha']}/>
             <UncontrolledAccordion title={'Menu2'}/>
             <UncontrolledRating/>
         </div>

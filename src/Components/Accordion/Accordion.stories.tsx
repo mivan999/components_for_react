@@ -15,8 +15,9 @@ export const FirstAccordionStory = Template.bind({});
 const onClickCallBack=action('some items was clicked')
 
 FirstAccordionStory.args = {
-    title:'TestAccordion',
+    title:'Users',
     collapsed:true,
-    onClick:onClickCallBack
+    onClick:onClickCallBack,
+    items:['Dimych','Igor','Sveta','Sasha']
     /*👇 The args you need here will depend on your component */
 };
